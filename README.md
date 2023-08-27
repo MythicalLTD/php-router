@@ -1,14 +1,14 @@
 # PHP Router
 
-[![Latest Stable Version](https://poser.pugx.org/ecoal95/php-router/v/stable)](https://packagist.org/packages/ecoal95/php-router)
-[![Total Downloads](https://poser.pugx.org/ecoal95/php-router/downloads)](https://packagist.org/packages/ecoal95/php-router)
-[![License](https://poser.pugx.org/ecoal95/php-router/license)](https://packagist.org/packages/ecoal95/php-router)
+[![Latest Stable Version](https://poser.pugx.org/mythicalsystems/php-router/v/stable)](https://packagist.org/packages/ecoal95/php-router)
+[![Total Downloads](https://poser.pugx.org/mythicalsystems/php-router/downloads)](https://packagist.org/packages/ecoal95/php-router)
+[![License](https://poser.pugx.org/mythicalsystems/php-router/license)](https://packagist.org/packages/ecoal95/php-router)
 
 ## Composer setup example
 ```json
 {
     "require": {
-        "ecoal95/php-router": "dev-master"
+        "mythicalsystems/php-router": "dev-master"
     }
 }
 ```
