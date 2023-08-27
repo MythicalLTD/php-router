@@ -1,8 +1,8 @@
 # PHP Router
 
-[![Latest Stable Version](https://poser.pugx.org/mythicalsystems/php-router/v/stable)](https://packagist.org/packages/ecoal95/php-router)
-[![Total Downloads](https://poser.pugx.org/mythicalsystems/php-router/downloads)](https://packagist.org/packages/ecoal95/php-router)
-[![License](https://poser.pugx.org/mythicalsystems/php-router/license)](https://packagist.org/packages/ecoal95/php-router)
+[![Latest Stable Version](https://poser.pugx.org/mythicalsystems/php-router/v/stable)](https://packagist.org/packages/mythicalsystems/php-router)
+[![Total Downloads](https://poser.pugx.org/mythicalsystems/php-router/downloads)](https://packagist.org/packages/mythicalsystems/php-router)
+[![License](https://poser.pugx.org/mythicalsystems/php-router/license)](https://packagist.org/packages/mythicalsystems/php-router)
 
 ## Composer setup example
 ```json

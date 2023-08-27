@@ -13,3 +13,4 @@ $router->add("/(.*)", function () {
 });
 
 $router->route();
+?>
